@@ -14,12 +14,12 @@ We can talk in 🇪🇸, 🇺🇸 or 🇷🇸
 
 
 📫 You can reach me here! <kbd><a href="mailto:hello@daviddokic.com">Say hi</a></kbd>
-br />
+
+<br />
 
 🚀 <a href="https://www.daviddokic.com">David Dokic Web</a>
 
 
-<br />
 <br />
 
 ### ⚒️ Languages and tools 
