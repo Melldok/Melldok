@@ -2,12 +2,14 @@
 
 **` Developer/Designer/Learner `**
 
-Hello there! I am a Full-Stack Developer bases in Madrid, Spain. I Used to be a chef and travel the world with the F1 Team. 
+Hello there! I am a Full-Stack Developer at CLCircular. I Used to be a chef and travel the world with the F1 Team. 
 I used to enjoy creating amazing dishes, now I enjoy creating amazing things that live on the web. I was born curious, so it's 
 clear why I fell in love with learning new stuff everyday. I value intuitive interfaces, clean designs and fresh perspectives.
 I like problem solving and I am always up for a challenge! <br />
 
 We can talk in 🇪🇸, 🇺🇸 or 🇷🇸
+
+📌 Madrid Based.
 
 <br />
 <br />
