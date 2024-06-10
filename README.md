@@ -2,12 +2,7 @@
 
 **` Developer/Designer/Learner `**
 
-Hello there! I am a Full-Stack Developer at CLCircular. I Used to be a chef and travel the world with the F1 Team. 
-I used to enjoy creating amazing dishes, now I enjoy creating amazing things that live on the web. I was born curious, so it's 
-clear why I fell in love with learning new stuff everyday. I value intuitive interfaces, clean designs and fresh perspectives.
-I like problem solving and I am always up for a challenge! <br />
-
-We can talk in 🇪🇸, 🇺🇸 or 🇷🇸
+Hello there! I am a Front-End Developer at CLCircular with a rich background in creating amazing things, whether it’s on a plate or on the web. Before diving into the world of development, I was a chef traveling the globe with the F1 Team, crafting unforgettable culinary experiences. Now, with two years of development experience under my belt, I channel that same creativity and attention to detail into building seamless, intuitive user interfaces. I thrive on learning and seeing things from different perspectives, constantly seeking out new paradigms and innovative approaches. One of the aspects I cherish most about being a developer is the opportunity to break down barriers and connect with people from all around the world. It’s incredibly inspiring to share ideas and collaborate with diverse minds, gaining fresh perspectives that enrich both my professional and personal growth. Let’s connect and create something extraordinary! I am fluent in Spanish 🇪🇸, English 🇺🇸, and Serbian 🇷🇸, and I'm always eager to engage with fellow tech enthusiasts from any corner of the globe.
 
 📌 Madrid Based.
 
