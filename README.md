@@ -1,51 +1,14 @@
-#  🧑🏽‍🚀 David Dokic
+I’m a Full Stack Developer (Front-End specialized)  at CLCircular, working increasingly at the intersection of product, technology, IoT and logistics.
 
-**` Developer/Designer/Learner `**
+Over the past four years, my role has evolved beyond interface development into understanding business needs, improving operational processes and helping shape digital solutions from idea to execution.
+At CLCircular, I work with products built around connected devices, sensor data and logistics visibility. My experience includes defining user and operational workflows, translating business requirements into technical solutions, contributing to product prioritization, evaluating external technologies and partners, and helping improve how digital tools support real-world logistics operations.
 
-Hello there! I am a Front-End Developer at CLCircular with a rich background in creating amazing things, whether it’s on a plate or on the web. Before diving into the world of development, I was a chef traveling the globe with the F1 Team, crafting unforgettable culinary experiences. Now, with two years of development experience under my belt, I channel that same creativity and attention to detail into building seamless, intuitive user interfaces. I thrive on learning and seeing things from different perspectives, constantly seeking out new paradigms and innovative approaches. One of the aspects I cherish most about being a developer is the opportunity to break down barriers and connect with people from all around the world. It’s incredibly inspiring to share ideas and collaborate with diverse minds, gaining fresh perspectives that enrich both my professional and personal growth. Let’s connect and create something extraordinary! I am fluent in Spanish 🇪🇸, English 🇺🇸, and Serbian 🇷🇸, and I'm always eager to engage with fellow tech enthusiasts from any corner of the globe.
+I particularly enjoy working on problems where technology has a direct impact on the business: reducing friction in operations, improving visibility, simplifying processes and turning complex requirements into solutions that people can actually use.
 
-📌 Madrid Based.
+My technical background allows me to communicate naturally with development teams, while my growing exposure to product and operational decision-making helps me understand the broader context behind what we build and why we build it.
 
-<br />
-<br />
+Before moving into technology, I worked internationally as a chef, including travelling around the world with a Formula 1 team. That experience taught me how to perform in demanding environments, coordinate with diverse teams and adapt quickly to changing conditions — skills that I still rely on every day.
+I’m especially interested in digital products, connected assets, logistics and the relationship between physical operations and software.
 
-
-📫 You can reach me here! <kbd><a href="mailto:hello@daviddokic.com">Say hi</a></kbd>
-
-<br />
-
-🚀 <a href="https://www.daviddokic.com">David Dokic Web</a>
-
-
-<br />
-
-### ⚒️ Languages and tools 
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-
-
-
-<!--
-**Melldok/Melldok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fluent in Spanish 🇪🇸, English 🇬🇧 and Serbian 🇷🇸.
 -->
